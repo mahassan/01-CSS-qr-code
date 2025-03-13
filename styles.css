@@ -15,6 +15,9 @@ section{
     padding: 20px;
     text-align: center;
 }
+section img{
+    width: 100%;
+}
 h1{
     font-weight: 700;
 }
